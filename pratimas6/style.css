@@ -1,0 +1,40 @@
+hr {
+    margin: 0%;
+    background-color  : red;
+    width: 10rem;
+    height: 1px;
+}
+.hr2 {
+    margin-left: 0;
+    margin-right: 0;
+    background-color  : black;
+    width: 35rem;
+    height: 2px;
+
+}
+h2 {
+    text-transform: uppercase;
+    font-size: medium;
+    border: none;
+}
+.test {
+    padding: 20px;
+}
+menu {
+    background-color: grey;
+    position: absolute;
+  top: 0%;
+  width: 200px;
+  height: 100px;
+  border: 3px solid #73AD21;
+    
+}
+main {
+    
+    position: absolute;
+  top: 0%;
+  left: 300px;
+  width: 60rem;
+  height: 1000px;
+  
+}

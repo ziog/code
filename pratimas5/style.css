@@ -1,0 +1,51 @@
+body {
+    background-color: grey;
+}
+.container {
+    margin: 1rem auto;
+    background-color: aliceblue;
+    width: 50%;
+    border-radius: 0.5rem;
+    box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.4);
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.produktai {
+    text-align: center;
+   
+}
+div.produktai p {
+    padding: 0%;
+    margin: 0;
+}
+.kaina
+{
+    font-weight: bold;
+}
+header {
+    
+    text-align: center;
+    
+}
+header a {
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    
+}
+article.container h2 {
+    text-align: center;
+}
+article.container div {
+    text-align: justify;
+    margin: 10px;
+}
+
+

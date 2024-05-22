@@ -1,0 +1,45 @@
+.fitlogo {
+    height: 50px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  
+  li {
+    display: inline;
+    font-size: 50px;
+   
+    a {
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        
+      }
+  }
+  .linkplace
+  {
+    height: 50px;
+    text-align: center;
+  }
+  nav {
+   
+    padding: 15px;
+    background-color: green;
+    text-align: center;
+  }
+  .fitdesert {
+    height: 800px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+div {
+    background-color: rgb(216, 216, 216);
+    background-size: auto;
+}
+h2 {
+    padding-left: 160px;
+    background-color: green; 
+    background-size: 40px; 
+    color: rgb(255, 255, 255);
+}
